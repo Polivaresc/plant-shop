@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//polivaresc.github.io/plant-shop/static/css/main.d6ca777d.css",
+    "main.js": "//polivaresc.github.io/plant-shop/static/js/main.9e039e38.js",
+    "index.html": "//polivaresc.github.io/plant-shop/index.html",
+    "main.d6ca777d.css.map": "//polivaresc.github.io/plant-shop/static/css/main.d6ca777d.css.map",
+    "main.9e039e38.js.map": "//polivaresc.github.io/plant-shop/static/js/main.9e039e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ca777d.css",
+    "static/js/main.9e039e38.js"
+  ]
+}
